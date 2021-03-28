@@ -1,6 +1,7 @@
 # User Files
 activate.bat
 migrations/
+gitty.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
