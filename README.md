@@ -1,1 +1,1 @@
-"# python-project-euler" 
+# python-project-euler
